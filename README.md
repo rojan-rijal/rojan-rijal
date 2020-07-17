@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👨‍💻 About me
 
 My name is Rojan. I like to hack website and write exploits for fun. You can find me on following places: 
 
@@ -9,7 +9,7 @@ My name is Rojan. I like to hack website and write exploits for fun. You can fin
 
 * Bug Bounty Site - https://github.com/bugbounty-site
 
-## Contact Me
+## 📞 Contact Me
 * 🐦 Twitter: @uraniumhacker
 
 ## 📚 Blogs
