@@ -8,3 +8,10 @@ My name is Rojan. I like to hack website and write exploits for fun. You can fin
 ## 💻 My current projects
 
 * Bug Bounty Site - https://github.com/bugbounty-site
+
+## Contact Me
+* 🐦 Twitter: @uraniumhacker
+
+## 📚 Blogs
+* https://blog.ophion.tech
+* https://sites.google.com/securifyinc.com/secblogs
